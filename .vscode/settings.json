@@ -5,6 +5,9 @@
         "deque": "cpp",
         "vector": "cpp",
         "string_view": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "initializer_list": "cpp",
+        "limits": "cpp"
     }
 }
