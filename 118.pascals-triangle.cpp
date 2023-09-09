@@ -11,7 +11,6 @@ using namespace std;
 
 // @lc code=start
 class Solution {
- private:
  public:
   vector<vector<int>> generate(int numRows) {
     vector<vector<int>> all_vec;
