@@ -8,6 +8,8 @@
         "ostream": "cpp",
         "chrono": "cpp",
         "initializer_list": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "unordered_map": "cpp",
+        "map": "cpp"
     }
 }
